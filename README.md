@@ -22,8 +22,8 @@ Create the linearRegression model and predict the output<br>
 ## Program:
 ```
 '''
-developed by:MOHAMED FAROOK S
-REGISTER NUMBER:2314058
+developed by: Dhandeeswaran selvakumar
+REGISTER NUMBER:23006838
 '''
 import pandas as pd 
 from sklearn import linear_model
