@@ -22,8 +22,8 @@ Create the linearRegression model and predict the output<br>
 ## Program:
 ```
 '''
-developed by: Dhandeeswaran selvakumar
-REGISTER NUMBER:23006838
+developed by: Rajkumar G
+REGISTER NUMBER:23003498
 '''
 import pandas as pd 
 from sklearn import linear_model
@@ -45,9 +45,7 @@ print('predicted co2 for the corresponding weight and volume',predictedco2)
 
 ```
 ## Output:
-![Screenshot 2023-12-28 224824](https://github.com/dhandeeswaran2005/Multivariate-Linear-Regression/assets/147139188/bc622126-cf5f-4dd6-88a3-4d89ff59a5b6)
-
-
+![Screenshot 2023-12-29 111848](https://github.com/Rajkumar28072005/Multivariate-Linear-Regression/assets/144980101/710de60c-e7e8-46a0-8876-4697b8fcaaf0)
 
 ## Result
 Thus the multivariate linear regression is implemented and predicted the output using python program.
